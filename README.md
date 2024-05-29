@@ -37,5 +37,3 @@ Les graphiques suivants illustrent divers aspects de notre analyse :
 
 Notre analyse révèle un avenir prometteur pour le marché des véhicules électriques, avec des augmentations significatives de l'adoption et des opportunités pour les entreprises. Les tendances montrent un changement dans les préférences des consommateurs vers des véhicules plus durables et une augmentation potentielle des opportunités d'investissement.
 
----
-Pour plus d'informations, veuillez consulter les documents et les sources de données utilisées pour cette analyse.
